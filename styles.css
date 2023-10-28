@@ -13,7 +13,8 @@ body {
 #PersonalInformation,
 #education,
 #achievements,
-#projects {
+#projects,
+#GroupInfo{
     scroll-margin-top: 27vh;
 }
 
